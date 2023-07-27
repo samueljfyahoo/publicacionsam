@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventory Management</title>
+</head>
+<body>
+    <h1>Inventory Management</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Apples</td>
+                <td>10</td>
+                <td>0.99</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Oranges</td>
+                <td>20</td>
+                <td>0.79</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Bananas</td>
+                <td>30</td>
+                <td>0.69</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
